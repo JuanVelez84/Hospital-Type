@@ -1,0 +1,47 @@
+
+
+[
+    {
+        "id": 1001,
+        "nombre": "David ",
+        "apellido": "velez",
+        "Cargo": "Doctor",
+        "Especialidad": "Medico general"
+        
+    },
+    {
+        "id": 1002,
+        "nombre": "Juan",
+        "apellido":"Restrepo",
+        "Cargo": "Doctor",
+        "Especialidad": "Cirujano"
+        
+    },
+    {
+        "id": 1003,
+        "nombre": "Camila",
+        "apellido": "Ruiz",
+        "Cargo": "Hola, soy la enfermera"
+       
+    },
+    {
+        "id": 1004,
+        "nombre": "Esteban",
+        "apellido": "Gil",
+        "Cargo": "Hola, soy el enfermero"
+       
+    },
+    {
+        "id": 1000001,
+        "nombre": "luna",
+        "apellido":"Giraldo",
+        "enfermedad": "Fiebre"
+    },
+    {
+        "id": 1000002,
+        "nombre": "Lucas",
+        "apellido":"Romero",
+        "enfermedad": "Gripa"
+    }
+
+]
